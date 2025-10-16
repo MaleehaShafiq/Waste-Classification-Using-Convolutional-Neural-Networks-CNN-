@@ -58,7 +58,7 @@ The architecture includes:
 - **Framework:** PyTorch  
 - **Optimizer:** Adam  
 - **Loss Function:** CrossEntropyLoss  
-- **Epochs:** 20  
+- **Epochs:** 10  
 - **Batch Size:** 32  
 
 The model was trained on the custom dataset and evaluated on unseen test images.
